@@ -1,1 +1,3 @@
 My name is Riteshan chaudhary .
+
+To see what commit you have made use (git log) command in terminal. 
